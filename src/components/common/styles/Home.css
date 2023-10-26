@@ -1,0 +1,68 @@
+/* Estilos para el cuerpo de la página */
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Estilos para el contenedor principal */
+  .homepage {
+
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  /* Estilos para el título principal */
+  h1 {
+    color: #333;
+    font-size: 36px;
+    margin: 10px 0;
+  }
+  
+  /* Estilos para el subtítulo */
+  h2 {
+    color: #666;
+    font-size: 24px;
+    margin: 10px 0;
+  }
+  
+  /* Estilos para el párrafo de descripción */
+  p {
+    color: #444;
+    font-size: 18px;
+    margin: 20px 0;
+  }
+  
+  /* Estilos para la sección de herramientas de diálisis */
+  .dialysis-tools {
+    background-color: #f0f0f0;
+    padding: 20px;
+    border-radius: 8px;
+    margin-top: 20px;
+  }
+  
+  /* Estilos para los elementos de la lista de herramientas */
+  ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  li {
+    color: #555;
+    font-size: 16px;
+    margin: 10px 0;
+  }
+
+  .btnsignup{
+    background-color: rgba(20, 160, 220, 0.838);
+    margin: 20px;
+  }
+  .btnlogin{
+    background-color: rgba(20, 220, 20, 0.838);
+    margin: 20px;
+  }
